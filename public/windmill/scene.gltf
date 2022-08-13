@@ -1,0 +1,393 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 3081,
+      "max": [
+        230.2337188720703,
+        799.3092651367188,
+        -15.643497467041016
+      ],
+      "min": [
+        -215.29867553710938,
+        -128.0655517578125,
+        -430.6183776855469
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 36972,
+      "componentType": 5126,
+      "count": 3081,
+      "max": [
+        0.9997522830963135,
+        0.999894917011261,
+        1.0
+      ],
+      "min": [
+        -0.9997612833976746,
+        -0.9996655583381653,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 3081,
+      "max": [
+        0.9999169707298279,
+        0.9999414086341858,
+        0.9998553395271301,
+        1.0
+      ],
+      "min": [
+        -0.9999810457229614,
+        -0.9999879002571106,
+        -0.9997982382774353,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 3081,
+      "max": [
+        0.9957558512687683,
+        0.6156103610992432
+      ],
+      "min": [
+        0.4091379642486572,
+        0.01016959547996521
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 13260,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 73944,
+      "componentType": 5126,
+      "count": 655,
+      "max": [
+        223.5766143798828,
+        972.9344482421875,
+        26.697532653808594
+      ],
+      "min": [
+        -223.50933837890625,
+        544.7218017578125,
+        -109.79430389404297
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 81804,
+      "componentType": 5126,
+      "count": 655,
+      "max": [
+        0.9933455586433411,
+        0.9942742586135864,
+        0.9978583455085754
+      ],
+      "min": [
+        -0.9990228414535522,
+        -0.9906063079833984,
+        -0.9981008768081665
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 49296,
+      "componentType": 5126,
+      "count": 655,
+      "max": [
+        0.9964628219604492,
+        0.9985631108283997,
+        0.9992436170578003,
+        1.0
+      ],
+      "min": [
+        -0.9977902173995972,
+        -0.9988678097724915,
+        -0.9954168796539307,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 24648,
+      "componentType": 5126,
+      "count": 655,
+      "max": [
+        0.9935721755027771,
+        0.601621687412262
+      ],
+      "min": [
+        0.49831444025039673,
+        0.2302001714706421
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 53040,
+      "componentType": 5125,
+      "count": 2046,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Tyler Lazzareschi (https://sketchfab.com/tylerlazzareschi)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/old-wooden-windmill-070396c0e1b145f69c4b8c575e6afe30",
+      "title": "Old Wooden Windmill"
+    },
+    "generator": "Sketchfab-13.28.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 61224,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 29888,
+      "byteOffset": 61224,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 89664,
+      "byteOffset": 91112,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 59776,
+      "byteOffset": 180776,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 240552,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/lambert4_baseColor.png"
+    },
+    {
+      "uri": "textures/lambert4_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/lambert4_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "lambert4",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "windmill_body_tri_lambert4_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "windmill_wings_tri_lambert4_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "9e0a0277900646eb9af0267aa4effb09.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "windmill"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "windmill_body_tri"
+    },
+    {
+      "mesh": 0,
+      "name": "windmill_body_tri_lambert4_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "windmill_wings_tri"
+    },
+    {
+      "mesh": 1,
+      "name": "windmill_wings_tri_lambert4_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

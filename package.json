@@ -1,0 +1,26 @@
+{
+  "name": "graphics-threejs",
+  "version": "",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.18.1",
+    "three": "^0.142.0"
+  }
+}

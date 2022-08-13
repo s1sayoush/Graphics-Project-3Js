@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Wooden Windmill
+* source:	https://sketchfab.com/3d-models/old-wooden-windmill-070396c0e1b145f69c4b8c575e6afe30
+* author:	Tyler Lazzareschi (https://sketchfab.com/tylerlazzareschi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Wooden Windmill" (https://sketchfab.com/3d-models/old-wooden-windmill-070396c0e1b145f69c4b8c575e6afe30) by Tyler Lazzareschi (https://sketchfab.com/tylerlazzareschi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
