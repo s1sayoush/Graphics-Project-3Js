@@ -1,1 +1,5 @@
 Change the model by changing the loader.
+steps to follow:
+  npm install
+  npm start
+  
