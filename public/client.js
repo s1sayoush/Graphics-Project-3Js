@@ -26,7 +26,7 @@ import { GLBufferAttribute, TubeGeometry } from 'three';
 // const house= new House()
 
 let loader = new GLTFLoader();
-loader.load("./wooden/scene.gltf", function (gltf) {
+loader.load("./windmill/scene.gltf", function (gltf) {
     scene.add(gltf.scene);
     house = gltf.scene.children[0];
     animate();
