@@ -6,7 +6,6 @@ import { Water } from './jsm/objects/Water.js';
 import { Sky } from './jsm/objects/Sky.js';
 
 import { GLTFLoader } from './jsm/loaders/GLTFLoader.js';
-import { GLBufferAttribute, TubeGeometry } from 'three';
 
 
 //Load Model
